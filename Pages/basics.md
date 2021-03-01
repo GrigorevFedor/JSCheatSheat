@@ -41,7 +41,7 @@ let user = 'John',
   message = 'Hello';
 ```
 ## Имена переменных
-Используем CamelCase:
+Используем lowerCamelCase:
 ```sh
 myVeryLongName
 ```
